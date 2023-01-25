@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "@types/sharp": "^0.31.1",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "hashnode-sdk-js": "github:t-rekttt/hashnode-sdk-js",
+    "sharp": "^0.31.3",
+    "typescript": "^4.9.4"
+  },
+  "name": "ghost-migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

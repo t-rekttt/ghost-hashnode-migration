@@ -1,0 +1,5 @@
+/node_modules
+/images
+.env
+ghost-backup.json
+package-lock.json
